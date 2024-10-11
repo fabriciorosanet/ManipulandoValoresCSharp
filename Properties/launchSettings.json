@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ManipulandoValores": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
